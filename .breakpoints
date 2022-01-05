@@ -1,0 +1,20 @@
+{
+  "files": {
+    "funcoesgerais.c": [
+      {
+        "id": "b3c4b323-777a-47f3-bd34-4005743b6f8a",
+        "line": 132,
+        "version": 1276,
+        "index": 2996
+      }
+    ],
+    "main.c": [
+      {
+        "id": "96eb40a8-9dbf-460e-a500-1327a9346d8b",
+        "line": 43,
+        "version": 4971,
+        "index": 1006
+      }
+    ]
+  }
+}
